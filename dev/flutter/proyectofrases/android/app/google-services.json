@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926067941480",
+    "project_id": "proyectodefrasesinspirad-78ddb",
+    "storage_bucket": "proyectodefrasesinspirad-78ddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926067941480:android:4c7bb641685b138f125bdd",
+        "android_client_info": {
+          "package_name": "com.example.proyectofrases"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABjTJ5H5GbJeNLMsskJQhW-1u6I_mxI1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
